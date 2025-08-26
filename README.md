@@ -1,1 +1,2 @@
-# Rimando_PA1
+# Advanced Computer Programming
+Submission of first advanced computer programming assignment.
